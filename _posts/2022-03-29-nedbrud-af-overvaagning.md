@@ -1,6 +1,6 @@
 ---
-title:  "Fejl i overvågning d. 29/3-2022"
-date:   2022-04-11 14:07:00 +0100
+title: "Fejl i overvågning d. 29/3-2022"
+date: 2022-04-10 14:07:00 +0100
 ---
 Grundet en menneskelig fejl blev den brugerkonto, som anvendes af vores eksterne overvågningssystemer (Dotcom-Monitor og Pingdom), kortvarigt blokeret i løbet af den 29/3-2022, hvilket medførte "nedetid" jf. statistikken.
 
