@@ -1,5 +1,5 @@
 ---
-title:  "Planlagt vedligeholdelse d. 28/9-2022"
+title:  "Planlagt vedligeholdelse d. 29/8-2022"
 date:   2022-08-08 13:07:00 +0200
 ---
 For at sikre en fortsat stabil drift og forbedre brugeroplevelsen har vi planlagt vedligeholdelse af vores servere på mandag d. 29. august 2022 mellem kl. 22 og 23.
