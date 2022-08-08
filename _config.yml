@@ -3,7 +3,6 @@ title: Bekey Status
 email: operations@bekey.dk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BekeyLocks
 author: Bekey A/S
 
 # Build settings
