@@ -1,5 +1,5 @@
 ---
-title:  "Planlagt vedligeholdelse d. 15/2-2022"
+title:  "Planlagt vedligeholdelse d. 15/2-2023"
 date:   2023-01-30 14:20:00 +0100
 ---
 For at sikre en fortsat stabil drift og forbedre brugeroplevelsen har vi planlagt vedligeholdelse af vores servere på onsdag d. 15. februar 2023 mellem kl. 21 og 22.
